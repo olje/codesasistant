@@ -1,0 +1,10 @@
+Flask==2.1.1
+Flask-CORS
+boto3
+botocore
+pyyaml
+awscli
+pyGithub
+gitpython 
+openai 
+flask
